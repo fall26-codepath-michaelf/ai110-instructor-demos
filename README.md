@@ -21,11 +21,3 @@ Module 2 Week 3/
 
 Use these materials to review the demo after class. They are examples of a
 development workflow, not the only correct way to complete an activity.
-
-## Before publishing a new demo
-
-1. Create a folder named `Module <number> Week <number>`.
-2. Add the starter Python file and an `instructor_prompts.md` file to that
-   folder.
-3. Remove personal data, credentials, API keys, and local environment files.
-4. State the activity name and the point in the lesson where the demo begins.
